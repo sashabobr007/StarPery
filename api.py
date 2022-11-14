@@ -2,6 +2,9 @@
 # с помощью ngrok создаем туннель
 # на данный момент url = https://8c6a-62-113-109-24.eu.ngrok.io
 
+#update with PyCharm
+
+
 from flask import *
 import json
 from qiwi_api_qr import *
